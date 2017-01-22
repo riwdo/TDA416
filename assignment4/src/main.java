@@ -12,7 +12,7 @@ public class main {
     public static void main(String[] args) throws ParseException {
 
         Date2000 date2000 = new Date2000("12/12/2017");
-        System.out.println(2020%4);
-       // System.out.println(date2000.day(date));
+        System.out.println(date2000.getWeekday());
+
     }
 }
