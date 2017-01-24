@@ -1,0 +1,28 @@
+1.)
+log n
+4n
+nlogn
+100n^2+n
+3n^3
+n^4
+
+2.)
+
+
+f(n)	1 sekund	1 timme 	1 månad		1 sekel 	
+
+logn	ca 10^300000	
+
+sqrt(n)
+
+n
+
+n * logn
+
+n^2
+
+n^3
+
+2^n
+
+n!
